@@ -1,0 +1,1 @@
+string = 'Valor qualquer'
